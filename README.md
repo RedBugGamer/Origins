@@ -5,9 +5,9 @@ Gebt das origin halt nicht als euers aus
 
 Gravity:
 
-  +You have the ability to modify Gravity to your advantage
+  + You have the ability to modify Gravity to your advantage
   
-  + Weightless
+  +Weightless
     You can remove gravity from all mobs in a 8 block radius for 20 seconds
     
   -Different Physics engine
